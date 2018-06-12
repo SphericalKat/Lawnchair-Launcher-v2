@@ -1,30 +1,9 @@
-# Magisk Module Template
-
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
-
-**Please update `README.md` if you want to submit your module to the online repo!**
-
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
-
----
-# **Module Name**
+# **Lawnchair Launcher v2 ALPHA**
 ## Description
-Description here
+Lawnchair, bringing Pixel Features to the masses. An open-source project developed by volunteers, Lawnchair has quickly become the de-facto choice for Android enthusiasts everywhere. New features are being added regularly... with the promise that Lawnchair will always be FREE and open-source.
+Download now, and become a part of the Android homescreen REVOLUTION that is Lawnchair! 
 ## Changelog
-Changelog here
-## Requirements
-- Requirement 1
-- Requirement *
-- Requirement n
-## Instructions
-Instructions here
-- Or other instructions here
-- Followed by more instructions
-1. Or a list of instructions
-2. With more instructions
-## Links
-[Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/module-url-here "Module official XDA thread")
-
-[Latest stable Magisk](http://www.tiny.cc/latestmagisk)
+Released v2 ALPHA build 137
+## Features
+Pretty much everything v1 had, with some killer new features.
+Discover yourself!

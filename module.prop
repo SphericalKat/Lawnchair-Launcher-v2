@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=LawnchairLauncher2
+name=Lawnchair Launcher v2
+version=v2-alpha_137
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Deletescape & SphericalKat
+description=A Magisk module to install the Lawnchair Launcher v2, systemlessly.
 minMagisk=1500
